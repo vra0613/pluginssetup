@@ -1,0 +1,5 @@
+plugins:
+  - artifactId: ansicolor
+    version: 1.0.4
+  - artifactId: ansible-tower
+    version: 0.16.0
